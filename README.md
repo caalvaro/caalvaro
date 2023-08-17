@@ -1,4 +1,4 @@
-# 👋🏻 Hello, wellcome to my page
+# 👋🏻 Hello, welcome to my page
 
  Please choose the language you're most comfortable with: 
 

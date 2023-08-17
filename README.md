@@ -21,13 +21,13 @@ My name is Álvaro de Carvalho (he/him), I'm a brazilian Computer Science studen
 
 # 💻 If you want to know more about my work, start here
 
-### Data Analysis
+### [Data Analysis](https://github.com/caalvaro/data-analysis/tree/main)
 
 
 
 <br />
 
-### Machine Learning
+### [Machine Learning](https://github.com/caalvaro/machine-learning/tree/main)
 
 
 <br />

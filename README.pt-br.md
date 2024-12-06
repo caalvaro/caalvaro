@@ -9,9 +9,9 @@
 
 # 👨🏻‍💻 Sobre mim
 
-Meu nome é Álvaro de Carvalho (ele/dele), sou brasileiro e estudante de Ciência da Computação na [UFRJ](https://ufrj.br). Numa jornada para me tornar um Cientista de Dados.
+Meu nome é Álvaro de Carvalho (ele/dele), sou brasileiro e cientista da computação numa jornada para me tornar um Cientista de Dados.
 
-💻 Atualmente trabalho como estagiário em Análise de Dados na [CI&T](https://ciandt.com/us/en-us).
+💻 Atualmente sou aluno de mestrado no Programa de Engenharia de Sistemas e Computação da [COPPE/UFRJ](https://coppe.ufrj.br/en/home-en/) 
 
 📚 Meus interesses são em Machine Learning, Análise de Dados e Teoria da Computação.
 

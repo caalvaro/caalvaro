@@ -11,7 +11,7 @@
 
 My name is Álvaro de Carvalho (he/him), I'm a brazilian Computer Scientist aspiring to be a Data Scientist.
 
-💻 Currently master's student of the Systems and Computer Engineering Program at [COPPE/UFRJ](https://ufrj.br](https://coppe.ufrj.br/en/home-en/) 
+💻 Currently master's student of the Systems and Computer Engineering Program at [COPPE/UFRJ](https://coppe.ufrj.br/en/home-en/) 
 
 📚 I'm interested in Machine Learning, Data Analysis and Theoretical Computer Science.
 

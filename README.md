@@ -9,9 +9,9 @@
 
 # 👨🏻‍💻 About me
 
-My name is Álvaro de Carvalho (he/him), I'm a brazilian Computer Science student at [UFRJ](https://ufrj.br) aspiring to be a Data Scientist.
+My name is Álvaro de Carvalho (he/him), I'm a brazilian Computer Scientist aspiring to be a Data Scientist.
 
-💻 Currently working as Data Analysis Intern at [CI&T](https://ciandt.com/us/en-us).
+💻 Currently master's student of the Systems and Computer Engineering Program at [COPPE/UFRJ](https://ufrj.br](https://coppe.ufrj.br/en/home-en/) 
 
 📚 I'm interested in Machine Learning, Data Analysis and Theoretical Computer Science.
 
